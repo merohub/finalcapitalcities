@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+.thumbpad{padding:6px;}
+
+h4.toptext{background:#FFF; padding:2px;
+-webkit-box-shadow: 0px 8px 22px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 8px 22px -3px rgba(0,0,0,0.75);
+box-shadow: 0px 8px 22px -3px rgba(0,0,0,0.75); text-align:center; color:#9c9c9c;}
+p.midtext{background:#fff; padding:2px;
+-webkit-box-shadow: 0px 8px 22px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 8px 22px -3px rgba(0,0,0,0.75);
+box-shadow: 0px 8px 22px -3px rgba(0,0,0,0.75); text-align:center; color:#9c9c9c;}
+
+
+p.textbox{background:#fff; padding:5px;-webkit-box-shadow: 0px 8px 22px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 8px 22px -3px rgba(0,0,0,0.75);
+box-shadow: 0px 8px 22px -3px rgba(0,0,0,0.75); text-align:center; color:#9c9c9c; font-size:24px;}
+
+.ui-page {
+    background : transparent url('images/bokeh.jpg') 0 0 no-repeat fixed !important;
+    background-size : cover;
+}​
+

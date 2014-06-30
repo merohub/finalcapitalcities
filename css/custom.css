@@ -1,0 +1,50 @@
+/*! jQuery Mobile 1.3.2 | Git HEAD hash: 528cf0e <> 2013-07-19T22:17:57Z | (c) 2010, 2013 jQuery Foundation, Inc. | jquery.org/license */
+
+/*!
+* jQuery Mobile 1.3.2
+* Git HEAD hash: 528cf0e96940644ea644096bfeb913ed920ffaef <> Date: Fri Jul 19 2013 22:17:57 UTC
+* http://jquerymobile.com
+*
+* Copyright 2010, 2013 jQuery Foundation, Inc. and other contributors
+* Released under the MIT license.
+* http://jquery.org/license
+*
+*/
+	
+
+
+.ui-content{font-family:'Actor',Arial,sans-serif; padding: 5px; }
+
+
+input#submit:active{background-color: blue; opacity: 0.1; }
+
+.generalinfo{
+	-webkit-box-shadow: 0px 16px 22px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 8px 22px -3px rgba(0,0,0,0.75);
+box-shadow: 0px 8px 22px -3px rgba(0,0,0,0.75); text-align:center; color:#6e6e6e; background:#fff;padding: 2px;
+margin-top: 10px; 
+}
+
+.sideresult{
+	 padding:2px;    
+text-align:left; background:#2a2a2a; color:#fca844; font-size: 14px; line-height: 1.5em;
+}
+
+.result{ padding:2px;    
+-webkit-box-shadow: 0px 16px 22px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 8px 22px -3px rgba(0,0,0,0.75);
+box-shadow: 0px 8px 22px -3px rgba(0,0,0,0.75); text-align:center; background:#fff; color:#455467; }
+
+.ui-field-contain, .ui-select{width:100%; }
+/*
+.ui-mobile .ui-page{ 
+background : transparent url(http://hitlarrajbhandari.info/CapitalCities/images/bokeh.jpg) 0 0 no-repeat fixed !important;
+    background-size : cover;
+}*/
+
+
+
+
+
+
+hr{border: 0.3em solid #ff8a00;}
